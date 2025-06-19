@@ -1,0 +1,346 @@
+[
+    {
+        "id": 0,
+        "value": "artists"
+    },
+    {
+        "id": 1,
+        "value": "carts"
+    },
+    {
+        "id": 2,
+        "value": "categ"
+    },
+    {
+        "id": 3,
+        "value": "featured"
+    },
+    {
+        "id": 4,
+        "value": "guestbook"
+    },
+    {
+        "id": 5,
+        "value": "pictures"
+    },
+    {
+        "id": 6,
+        "value": "products"
+    },
+    {
+        "id": 7,
+        "value": "users"
+    },
+    {
+        "id": 8,
+        "value": "ADMINISTRABLE_ROLE_AUTHORIZATIONS"
+    },
+    {
+        "id": 9,
+        "value": "APPLICABLE_ROLES"
+    },
+    {
+        "id": 10,
+        "value": "CHARACTER_SETS"
+    },
+    {
+        "id": 11,
+        "value": "CHECK_CONSTRAINTS"
+    },
+    {
+        "id": 12,
+        "value": "COLLATIONS"
+    },
+    {
+        "id": 13,
+        "value": "COLLATION_CHARACTER_SET_APPLICABILITY"
+    },
+    {
+        "id": 14,
+        "value": "COLUMNS"
+    },
+    {
+        "id": 15,
+        "value": "COLUMNS_EXTENSIONS"
+    },
+    {
+        "id": 16,
+        "value": "COLUMN_PRIVILEGES"
+    },
+    {
+        "id": 17,
+        "value": "COLUMN_STATISTICS"
+    },
+    {
+        "id": 18,
+        "value": "ENABLED_ROLES"
+    },
+    {
+        "id": 19,
+        "value": "ENGINES"
+    },
+    {
+        "id": 20,
+        "value": "EVENTS"
+    },
+    {
+        "id": 21,
+        "value": "FILES"
+    },
+    {
+        "id": 22,
+        "value": "INNODB_BUFFER_PAGE"
+    },
+    {
+        "id": 23,
+        "value": "INNODB_BUFFER_PAGE_LRU"
+    },
+    {
+        "id": 24,
+        "value": "INNODB_BUFFER_POOL_STATS"
+    },
+    {
+        "id": 25,
+        "value": "INNODB_CACHED_INDEXES"
+    },
+    {
+        "id": 26,
+        "value": "INNODB_CMP"
+    },
+    {
+        "id": 27,
+        "value": "INNODB_CMPMEM"
+    },
+    {
+        "id": 28,
+        "value": "INNODB_CMPMEM_RESET"
+    },
+    {
+        "id": 29,
+        "value": "INNODB_CMP_PER_INDEX"
+    },
+    {
+        "id": 30,
+        "value": "INNODB_CMP_PER_INDEX_RESET"
+    },
+    {
+        "id": 31,
+        "value": "INNODB_CMP_RESET"
+    },
+    {
+        "id": 32,
+        "value": "INNODB_COLUMNS"
+    },
+    {
+        "id": 33,
+        "value": "INNODB_DATAFILES"
+    },
+    {
+        "id": 34,
+        "value": "INNODB_FIELDS"
+    },
+    {
+        "id": 35,
+        "value": "INNODB_FOREIGN"
+    },
+    {
+        "id": 36,
+        "value": "INNODB_FOREIGN_COLS"
+    },
+    {
+        "id": 37,
+        "value": "INNODB_FT_BEING_DELETED"
+    },
+    {
+        "id": 38,
+        "value": "INNODB_FT_CONFIG"
+    },
+    {
+        "id": 39,
+        "value": "INNODB_FT_DEFAULT_STOPWORD"
+    },
+    {
+        "id": 40,
+        "value": "INNODB_FT_DELETED"
+    },
+    {
+        "id": 41,
+        "value": "INNODB_FT_INDEX_CACHE"
+    },
+    {
+        "id": 42,
+        "value": "INNODB_FT_INDEX_TABLE"
+    },
+    {
+        "id": 43,
+        "value": "INNODB_INDEXES"
+    },
+    {
+        "id": 44,
+        "value": "INNODB_METRICS"
+    },
+    {
+        "id": 45,
+        "value": "INNODB_SESSION_TEMP_TABLESPACES"
+    },
+    {
+        "id": 46,
+        "value": "INNODB_TABLES"
+    },
+    {
+        "id": 47,
+        "value": "INNODB_TABLESPACES"
+    },
+    {
+        "id": 48,
+        "value": "INNODB_TABLESPACES_BRIEF"
+    },
+    {
+        "id": 49,
+        "value": "INNODB_TABLESTATS"
+    },
+    {
+        "id": 50,
+        "value": "INNODB_TEMP_TABLE_INFO"
+    },
+    {
+        "id": 51,
+        "value": "INNODB_TRX"
+    },
+    {
+        "id": 52,
+        "value": "INNODB_VIRTUAL"
+    },
+    {
+        "id": 53,
+        "value": "KEYWORDS"
+    },
+    {
+        "id": 54,
+        "value": "KEY_COLUMN_USAGE"
+    },
+    {
+        "id": 55,
+        "value": "OPTIMIZER_TRACE"
+    },
+    {
+        "id": 56,
+        "value": "PARAMETERS"
+    },
+    {
+        "id": 57,
+        "value": "PARTITIONS"
+    },
+    {
+        "id": 58,
+        "value": "PLUGINS"
+    },
+    {
+        "id": 59,
+        "value": "PROCESSLIST"
+    },
+    {
+        "id": 60,
+        "value": "PROFILING"
+    },
+    {
+        "id": 61,
+        "value": "REFERENTIAL_CONSTRAINTS"
+    },
+    {
+        "id": 62,
+        "value": "RESOURCE_GROUPS"
+    },
+    {
+        "id": 63,
+        "value": "ROLE_COLUMN_GRANTS"
+    },
+    {
+        "id": 64,
+        "value": "ROLE_ROUTINE_GRANTS"
+    },
+    {
+        "id": 65,
+        "value": "ROLE_TABLE_GRANTS"
+    },
+    {
+        "id": 66,
+        "value": "ROUTINES"
+    },
+    {
+        "id": 67,
+        "value": "SCHEMATA"
+    },
+    {
+        "id": 68,
+        "value": "SCHEMATA_EXTENSIONS"
+    },
+    {
+        "id": 69,
+        "value": "SCHEMA_PRIVILEGES"
+    },
+    {
+        "id": 70,
+        "value": "STATISTICS"
+    },
+    {
+        "id": 71,
+        "value": "ST_GEOMETRY_COLUMNS"
+    },
+    {
+        "id": 72,
+        "value": "ST_SPATIAL_REFERENCE_SYSTEMS"
+    },
+    {
+        "id": 73,
+        "value": "ST_UNITS_OF_MEASURE"
+    },
+    {
+        "id": 74,
+        "value": "TABLES"
+    },
+    {
+        "id": 75,
+        "value": "TABLESPACES"
+    },
+    {
+        "id": 76,
+        "value": "TABLESPACES_EXTENSIONS"
+    },
+    {
+        "id": 77,
+        "value": "TABLES_EXTENSIONS"
+    },
+    {
+        "id": 78,
+        "value": "TABLE_CONSTRAINTS"
+    },
+    {
+        "id": 79,
+        "value": "TABLE_CONSTRAINTS_EXTENSIONS"
+    },
+    {
+        "id": 80,
+        "value": "TABLE_PRIVILEGES"
+    },
+    {
+        "id": 81,
+        "value": "TRIGGERS"
+    },
+    {
+        "id": 82,
+        "value": "USER_ATTRIBUTES"
+    },
+    {
+        "id": 83,
+        "value": "USER_PRIVILEGES"
+    },
+    {
+        "id": 84,
+        "value": "VIEWS"
+    },
+    {
+        "id": 85,
+        "value": "VIEW_ROUTINE_USAGE"
+    }
+]
